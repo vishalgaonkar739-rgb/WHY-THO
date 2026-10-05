@@ -1,1 +1,2 @@
-# WHY-THO
+## Documentation Update
+Updated the project documentation.
